@@ -1,0 +1,5 @@
+#Restaurar node_modules y package-lockjson con npm install
+node_modules/
+package-lock.json
+.env
+.DS_Store
